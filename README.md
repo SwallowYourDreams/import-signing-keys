@@ -5,4 +5,4 @@ Starting with Debian 11 and its derivatives (e.g. Ubuntu 22.04., Linux Mint 21),
 * importing keys from a URL. For this, you can run the script using the `--url` flag.
 * exporting existing keys from `apt-key`. For this, you can run the script using the `--export` flag.
 
-After importing the keys, the script will also guide you through the process of linking the moved keyring to the PPA sources in `/etc/apt/sources.list.d.
+After importing the keys, the script will also guide you through the process of linking the moved keyring to the PPA sources in `/etc/apt/sources.list.d`.
